@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Noted known limitation in docs
 - Updated license year
+
+## 2026-04-15
+- Resolved deprecation warnings
+- Bumped patch version
