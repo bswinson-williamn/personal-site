@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-15
 - Resolved deprecation warnings
 - Bumped patch version
+
+## 2026-04-29
+- Investigated performance bottleneck, noted findings
+- Added basic retry logic for network requests
+- Bumped patch version
